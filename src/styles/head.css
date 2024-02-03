@@ -1,0 +1,46 @@
+.mg {
+  margin: 100px;
+}
+
+.hero-section {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 100px;
+  /* height: 100vh; */
+}
+h1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.clipped {
+  /* clip-path: polygon(0% 1%, 44% 24%, 100% 31%, 100% 99%, 49% 90%, 1% 100%);*/
+  clip-path: polygon(95% 21%, 59% 17%, 32% 8%, 0% 0%, 4% 54%, 2% 82%, 6% 96%, 23% 93%, 41% 88%, 62% 96%, 82% 89%, 97% 76%, 100% 50%, 100% 38%);
+}
+p {
+  margin-bottom: 2rem;
+  color: #fff;
+  width: 80%;
+}
+.lmore {
+  background-color: #06d8d9;
+  padding: 10px 30px;
+  border-radius: 50px;
+  border: 0px solid transparent;
+  cursor: pointer;
+  box-shadow: 0px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+  transition: 0.3s all ease-in-out;
+}
+
+.lmore:hover {
+  background-color: #06d8d9;
+  color: #fff;
+}

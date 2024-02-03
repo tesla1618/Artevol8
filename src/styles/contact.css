@@ -1,0 +1,109 @@
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 70vh;
+  /* gap: 200px; */
+  padding-left: 80px;
+  /* padding-top: -200px; */
+  color: #1f1f1f;
+}
+
+/* img {
+    margin-left: 70px;
+  } */
+.contact h1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  color: #1f1f1f;
+  margin-bottom: 1rem;
+  margin-top: 0.6rem;
+  /* max-width: 130%; */
+}
+
+.contact b {
+  text-transform: uppercase;
+  color: rgb(109, 47, 225);
+  font-weight: bolder;
+  font-size: 1.3rem;
+  letter-spacing: 10px;
+}
+
+.contact p {
+  margin-bottom: 2rem;
+  color: #1f1f1f;
+  width: 80%;
+}
+
+.wbox {
+  background-color: #fff;
+  padding: 30px 10px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: start; */
+  align-items: start;
+  /* text-align: left; */
+  height: 300px;
+  gap: 10px;
+  width: 500px;
+  margin-right: 60px;
+  border-radius: 8px;
+  box-shadow: 0px 6px 36px 1px rgba(0, 0, 0, 0.06);
+  -webkit-box-shadow: 0px 6px 36px 1px rgba(0, 0, 0, 0.06);
+  -moz-box-shadow: 0px 6px 36px 1px rgba(0, 0, 0, 0.06);
+}
+
+input[type="text"] {
+  border: 1px solid #e4e4e4;
+  color: rgba(109, 47, 225, 1);
+  padding: 12px;
+  font-size: 17px;
+  width: 85%;
+  transition: all 0.3s ease-in-out;
+}
+input[type="email"] {
+  border: 1px solid #e4e4e4;
+  color: rgba(109, 47, 225, 1);
+  padding: 12px;
+  font-size: 17px;
+  width: 85%;
+  transition: all 0.3s ease-in-out;
+}
+textarea {
+  border: 1px solid #e4e4e4;
+  color: rgba(109, 47, 225, 1);
+  padding: 12px;
+  width: 85%;
+  transition: all 0.3s ease-in-out;
+  font-size: 17px;
+  font-family: "Cabin", sans-serif;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  outline: none;
+  border: 1px solid rgba(109, 47, 225, 1);
+}
+
+.sendmsg {
+  background-color: #f7c728;
+  padding: 13px 30px;
+  border-radius: 50px;
+  border: 0px solid transparent;
+  cursor: pointer;
+  box-shadow: 0px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+  transition: 0.3s all ease-in-out;
+  width: 50%;
+  font-size: 17px;
+}
+
+.sendmsg:hover {
+  background-color: #1f1f1f;
+  color: #fff;
+}

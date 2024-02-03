@@ -1,0 +1,53 @@
+.about {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100vh;
+  gap: 200px;
+  color: #1f1f1f;
+}
+
+img {
+  margin-left: 70px;
+}
+.about h1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  color: #1f1f1f;
+  margin-bottom: 1rem;
+  margin-top: 0.6rem;
+  max-width: 90%;
+}
+
+.about b {
+  text-transform: uppercase;
+  color: #9c9c9c;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  letter-spacing: 10px;
+}
+
+.about p {
+  margin-bottom: 2rem;
+  color: #1f1f1f;
+  width: 80%;
+}
+.about-lmore {
+  background-color: #f7c728;
+  padding: 10px 30px;
+  border-radius: 50px;
+  border: 0px solid transparent;
+  cursor: pointer;
+  box-shadow: 0px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+  transition: 0.3s all ease-in-out;
+}
+
+.about-lmore:hover {
+  background-color: #1f1f1f;
+  color: #fff;
+}

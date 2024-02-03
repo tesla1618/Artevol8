@@ -1,0 +1,97 @@
+.fcontainer {
+  height: 140px;
+  margin-top: 5px;
+  /* background: rgb(109, 47, 225); */
+  background: linear-gradient(45deg, rgba(109, 47, 225, 1) 0%, rgba(120, 104, 248, 1) 100%);
+
+  border-top-left-radius: 150px;
+  position: relative;
+  /* transform: perspective(1000px) translateY(7px) skewY(-4deg); */
+  padding: 20px;
+  /* overflow: hidden; */
+  z-index: 999999999999999;
+}
+
+.footer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.fcontainer .footer > ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 15px;
+  /* width: 30%; */
+}
+.fcontainer .footer > ul li a {
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: 500;
+  /* width: 30%; */
+  padding: 8px;
+  border-radius: 10px;
+  transition: 0.3s all ease-in-out;
+}
+
+.contact-btn {
+  background-color: #fff;
+  color: rgba(109, 47, 225, 1);
+  padding: 12px 15px;
+  border-radius: 199px;
+  border: 0px solid transparent;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact-btn:hover {
+  background-color: rgb(63, 13, 155);
+  color: #fff;
+  padding: 12px 15px;
+  border-radius: 199px;
+  border: 0px solid transparent;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.fcontainer .footer > ul li a:hover {
+  background-color: aliceblue;
+  color: rgba(109, 47, 225, 1);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+  a {
+    background-color: #697cf8;
+    padding: 5px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px solid transparent;
+    transition: all 0.3s ease-in-out;
+    color: #fff;
+  }
+  a:hover {
+    background-color: black;
+    color: white;
+    background-color: #0bd7d4;
+  }
+}

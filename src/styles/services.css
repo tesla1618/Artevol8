@@ -1,0 +1,109 @@
+.scontainer {
+  height: 490px;
+  margin-top: 50px;
+  /* background: rgb(109, 47, 225); */
+  background: linear-gradient(180deg, rgb(236, 236, 236) 0%, rgb(255, 255, 255) 100%);
+  border-top-left-radius: 150px;
+  position: relative;
+  transform: perspective(1000px) translateY(-90px) skewY(-4deg);
+  padding: 20px;
+  /* overflow: hidden; */
+  z-index: 999999999999999;
+}
+
+.services {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100vh;
+  gap: 200px;
+  padding-left: 80px;
+  padding-top: 20px;
+  color: #1f1f1f;
+  transform: skewY(4deg);
+}
+
+/* img {
+  margin-left: 70px;
+} */
+.services h1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  color: #1f1f1f;
+  margin-bottom: 1rem;
+  margin-top: 0.6rem;
+  /* max-width: 130%; */
+}
+
+.services b {
+  text-transform: uppercase;
+  color: rgb(109, 47, 225);
+  font-weight: bolder;
+  font-size: 1.3rem;
+  letter-spacing: 10px;
+}
+
+.services p {
+  margin-bottom: 2rem;
+  color: #1f1f1f;
+  width: 80%;
+}
+.about-lmore {
+  background-color: #f7c728;
+  padding: 10px 30px;
+  border-radius: 50px;
+  border: 0px solid transparent;
+  cursor: pointer;
+  box-shadow: 0px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+  transition: 0.3s all ease-in-out;
+}
+
+.about-lmore:hover {
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+.sq {
+  background-color: #fff;
+  padding: 16px 10px 0px 10px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: start; */
+  align-items: center;
+  /* text-align: left; */
+  height: 230px;
+  width: 190px;
+  border-radius: 8px;
+  box-shadow: 0px 6px 36px 1px rgba(0, 0, 0, 0.06);
+  -webkit-box-shadow: 0px 6px 36px 1px rgba(0, 0, 0, 0.06);
+  -moz-box-shadow: 0px 6px 36px 1px rgba(0, 0, 0, 0.06);
+}
+
+.sq b {
+  color: #1f1f1f;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0px;
+  margin-bottom: 0.5rem;
+}
+
+.services-box {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+
+.sbx2 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.mb {
+  transform: translateY(-30px);
+  /* padding-bottom: 0px !important; */
+}
