@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/artevol8/static/css/main.8f219f39.css",
-    "main.js": "/artevol8/static/js/main.fe76bf30.js",
-    "static/media/peeps.png": "/artevol8/static/media/peeps.aff06fbb17fc437a16f7.png",
-    "static/media/about.png": "/artevol8/static/media/about.2948ee1b96953bc4157b.png",
-    "static/media/ae82.png": "/artevol8/static/media/ae82.1be7c6d716b51f3bc719.png",
-    "static/media/map.png": "/artevol8/static/media/map.303535431be757d616ea.png",
-    "static/media/circles2.png": "/artevol8/static/media/circles2.f46d45816cb1123f9af0.png",
-    "static/media/quote.png": "/artevol8/static/media/quote.19fcbdf527ec52cd3898.png",
-    "static/media/ycircle.png": "/artevol8/static/media/ycircle.07e3637f75866d3ed367.png",
-    "static/media/branding.png": "/artevol8/static/media/branding.e862b6778279d8a71037.png",
-    "static/media/star.png": "/artevol8/static/media/star.b56d062e396db715e703.png",
-    "static/media/marketing.png": "/artevol8/static/media/marketing.ab159f1a3551bb9dcaec.png",
-    "static/media/ui.png": "/artevol8/static/media/ui.e4a569bd2405b06bc0a6.png",
-    "static/media/games.png": "/artevol8/static/media/games.dd2e611a2d08afbce01e.png",
-    "index.html": "/artevol8/index.html",
-    "main.8f219f39.css.map": "/artevol8/static/css/main.8f219f39.css.map",
-    "main.fe76bf30.js.map": "/artevol8/static/js/main.fe76bf30.js.map"
+    "main.css": "/Artevol8/static/css/main.e77c9200.css",
+    "main.js": "/Artevol8/static/js/main.24c53928.js",
+    "static/media/peeps.png": "/Artevol8/static/media/peeps.aff06fbb17fc437a16f7.png",
+    "static/media/about.png": "/Artevol8/static/media/about.2948ee1b96953bc4157b.png",
+    "static/media/ae82.png": "/Artevol8/static/media/ae82.1be7c6d716b51f3bc719.png",
+    "static/media/map.png": "/Artevol8/static/media/map.303535431be757d616ea.png",
+    "static/media/circles2.png": "/Artevol8/static/media/circles2.f46d45816cb1123f9af0.png",
+    "static/media/quote.png": "/Artevol8/static/media/quote.19fcbdf527ec52cd3898.png",
+    "static/media/ycircle.png": "/Artevol8/static/media/ycircle.07e3637f75866d3ed367.png",
+    "static/media/branding.png": "/Artevol8/static/media/branding.e862b6778279d8a71037.png",
+    "static/media/star.png": "/Artevol8/static/media/star.b56d062e396db715e703.png",
+    "static/media/marketing.png": "/Artevol8/static/media/marketing.ab159f1a3551bb9dcaec.png",
+    "static/media/ui.png": "/Artevol8/static/media/ui.e4a569bd2405b06bc0a6.png",
+    "static/media/games.png": "/Artevol8/static/media/games.dd2e611a2d08afbce01e.png",
+    "index.html": "/Artevol8/index.html",
+    "main.e77c9200.css.map": "/Artevol8/static/css/main.e77c9200.css.map",
+    "main.24c53928.js.map": "/Artevol8/static/js/main.24c53928.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f219f39.css",
-    "static/js/main.fe76bf30.js"
+    "static/css/main.e77c9200.css",
+    "static/js/main.24c53928.js"
   ]
 }
