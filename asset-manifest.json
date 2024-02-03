@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Artevol8/static/css/main.e77c9200.css",
-    "main.js": "/Artevol8/static/js/main.4335d7e5.js",
+    "main.css": "/Artevol8/static/css/main.0ed32e54.css",
+    "main.js": "/Artevol8/static/js/main.af4ae6ae.js",
     "static/media/peeps.png": "/Artevol8/static/media/peeps.aff06fbb17fc437a16f7.png",
     "static/media/about.png": "/Artevol8/static/media/about.2948ee1b96953bc4157b.png",
+    "static/media/avatar.png": "/Artevol8/static/media/avatar.853ac53009528ba8dbd4.png",
     "static/media/ae82.png": "/Artevol8/static/media/ae82.1be7c6d716b51f3bc719.png",
     "static/media/map.png": "/Artevol8/static/media/map.303535431be757d616ea.png",
     "static/media/circles2.png": "/Artevol8/static/media/circles2.f46d45816cb1123f9af0.png",
@@ -15,11 +16,11 @@
     "static/media/ui.png": "/Artevol8/static/media/ui.e4a569bd2405b06bc0a6.png",
     "static/media/games.png": "/Artevol8/static/media/games.dd2e611a2d08afbce01e.png",
     "index.html": "/Artevol8/index.html",
-    "main.e77c9200.css.map": "/Artevol8/static/css/main.e77c9200.css.map",
-    "main.4335d7e5.js.map": "/Artevol8/static/js/main.4335d7e5.js.map"
+    "main.0ed32e54.css.map": "/Artevol8/static/css/main.0ed32e54.css.map",
+    "main.af4ae6ae.js.map": "/Artevol8/static/js/main.af4ae6ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77c9200.css",
-    "static/js/main.4335d7e5.js"
+    "static/css/main.0ed32e54.css",
+    "static/js/main.af4ae6ae.js"
   ]
 }
