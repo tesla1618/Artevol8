@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Artevol8/static/css/main.0ed32e54.css",
-    "main.js": "/Artevol8/static/js/main.d8cf1fd3.js",
+    "main.js": "/Artevol8/static/js/main.244244d1.js",
     "static/media/peeps.png": "/Artevol8/static/media/peeps.aff06fbb17fc437a16f7.png",
     "static/media/about.png": "/Artevol8/static/media/about.2948ee1b96953bc4157b.png",
     "static/media/avatar.png": "/Artevol8/static/media/avatar.853ac53009528ba8dbd4.png",
@@ -17,10 +17,10 @@
     "static/media/games.png": "/Artevol8/static/media/games.dd2e611a2d08afbce01e.png",
     "index.html": "/Artevol8/index.html",
     "main.0ed32e54.css.map": "/Artevol8/static/css/main.0ed32e54.css.map",
-    "main.d8cf1fd3.js.map": "/Artevol8/static/js/main.d8cf1fd3.js.map"
+    "main.244244d1.js.map": "/Artevol8/static/js/main.244244d1.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed32e54.css",
-    "static/js/main.d8cf1fd3.js"
+    "static/js/main.244244d1.js"
   ]
 }
